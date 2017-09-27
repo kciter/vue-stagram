@@ -34,17 +34,17 @@
       return {
         menus: [
           {
-            path: '/me',
+            path: '/vue-stagram/me',
             icon: 'person',
             title: '내 정보'
           },
           {
-            path: '/feeds',
+            path: '/vue-stagram/feeds',
             icon: 'list',
             title: '내 피드'
           },
           {
-            path: '/search',
+            path: '/vue-stagram/search',
             icon: 'search',
             title: '태그 검색'
           }
